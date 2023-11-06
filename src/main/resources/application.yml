@@ -1,0 +1,16 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: AKIAUJPP7X57AXGCBDZD
+      secret-key: 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
+    end-point:
+      uri: https://sqs.ap-south-1.amazonaws.com/295245430654/DemoQueue
+
+
+server:
+  port: 8082
