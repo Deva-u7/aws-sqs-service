@@ -6,10 +6,10 @@ cloud:
     stack:
       auto: false
     credentials:
-      access-key: AKIAUJPP7X57AXGCBDZD
-      secret-key: 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
+      access-key: <access-key>
+      secret-key: <secret-key>
     end-point:
-      uri: https://sqs.ap-south-1.amazonaws.com/295245430654/DemoQueue
+      uri: <endpoint-uri>
 
 
 server:
