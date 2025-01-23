@@ -1,6 +1,6 @@
 # AWS SQS Service
 
-This repository is dedicated to demonstrating the use and functionality of Amazon Simple Queue Service (SQS) using Java. It contains various examples and code snippets to help you understand how to[...]
+This repository is dedicated to demonstrating the use and functionality of Amazon Simple Queue Service (SQS) using Java. It contains various examples and code snippets to help you understand SQS
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ This repository is dedicated to demonstrating the use and functionality of Amazo
 
 ## Overview
 
-Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. This repository[...]
+Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications.
 
 ## Prerequisites
 
