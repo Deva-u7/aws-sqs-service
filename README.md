@@ -1,6 +1,6 @@
 Here is a complete README file for your repository:
 
-# AWS SQS Learning Demo
+# AWS SQS Learning 
 
 This repository is dedicated to demonstrating the use and functionality of Amazon Simple Queue Service (SQS) using Java. It contains various examples and code snippets to help you understand how to effectively integrate and utilize SQS in your applications.
 
