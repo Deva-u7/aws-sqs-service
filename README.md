@@ -1,8 +1,6 @@
-Here is a complete README file for your repository:
+# AWS SQS Service
 
-# AWS SQS Learning 
-
-This repository is dedicated to demonstrating the use and functionality of Amazon Simple Queue Service (SQS) using Java. It contains various examples and code snippets to help you understand how to effectively integrate and utilize SQS in your applications.
+This repository is dedicated to demonstrating the use and functionality of Amazon Simple Queue Service (SQS) using Java. It contains various examples and code snippets to help you understand how to[...]
 
 ## Table of Contents
 
@@ -11,10 +9,9 @@ This repository is dedicated to demonstrating the use and functionality of Amazo
 - Setup
 - Usage
 
-
 ## Overview
 
-Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. This repository provides a hands-on approach to learning SQS through practical examples.
+Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. This repository[...]
 
 ## Prerequisites
 
@@ -27,8 +24,8 @@ Amazon Simple Queue Service (SQS) is a fully managed message queuing service tha
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Deva-u7/aws-sqs-learning-demo.git
-    cd aws-sqs-learning-demo
+    git clone https://github.com/Deva-u7/aws-sqs-service.git
+    cd aws-sqs-service
     ```
 
 2. Build the project using Maven:
@@ -55,4 +52,4 @@ You can run the examples provided in this repository to interact with AWS SQS. T
 - **Description**: Sends a message to the SQS queue.
 
 ### Receive Message
--  We have Implemented a Listner who will recieve all the msgs from the queue.
+- We have Implemented a Listener who will receive all the messages from the queue.
